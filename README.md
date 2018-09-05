@@ -2,8 +2,10 @@
 
 Pre-Requisite
 
-Use Ansible and RHEL 6.x host
+***Use Ansible and RHEL 6.x host***
+
 Edit Hosts inventory file
+
 Edit group_vars/jboss-servers file to set JBoss configuration parameters needed
 
 # Run playbook
