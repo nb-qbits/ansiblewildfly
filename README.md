@@ -1,6 +1,6 @@
 # ansible to deploy JBoss
 
-Pre-Req
+Pre-Requisite
 
 Use Ansible and RHEL 6.x host
 Edit Hosts inventory file
